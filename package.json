@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlirezaDadrass/Idp.git"
+    "url": "git+https://github.com/Runtessa/kernel.git"
   },
   "engines": {
     "node": ">=22.13.0 <23"
