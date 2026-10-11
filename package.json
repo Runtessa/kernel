@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/bcryptjs": "3.0.0",
-    "@types/node": "24.10.1",
+    "@types/node": "26.6.4",
     "@types/react": "19.2.7",
     "@types/react-dom": "19.2.3",
     "@types/react-icons": "3.0.0",
